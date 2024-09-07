@@ -25,3 +25,7 @@
 ## Results
 
 Results are saved in the `results/` directory.
+
+## APP
+
+<img src='imgs/app.png' width="400px"/>
