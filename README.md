@@ -14,7 +14,7 @@
 ## Installation
 
 1. Clone the repository.
-2. Install dependencies: ```conda env create -f env.yml```
+2. Install dependencies using conda : ```conda env create -f env.yml```
 
 ## Usage
 
